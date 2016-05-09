@@ -2,6 +2,7 @@
 name = "shareable"
 version = "0.0.1"
 authors = ["Joshua Gentry <pixel@deathbysoftware.com>"]
+description = "Thread shareable objects using the minimal amount of syncrhonization."
 documentation="http://rust4.us/docs/shareable/"
 homepage="https://github.com/pixel27/shareable"
 repository="https://github.com/pixel27/shareable"
